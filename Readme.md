@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+* [TOCHelpers.cs](./CS/WindowsFormsApplication1/TOCHelpers.cs) (VB: [TOCHelpers.vb](./VB/WindowsFormsApplication1/TOCHelpers.vb))
+<!-- default file list end -->
 # How to dynamically generate Table Of Contents by adding TOC field with different nesting levels
 
 
